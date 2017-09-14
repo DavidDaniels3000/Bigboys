@@ -1,0 +1,29 @@
+header{
+	height: 50px;
+}
+
+header>p{
+		font-size: 30px;
+		margin-left: 20px;
+}
+
+.container{
+	margin-top: 50px;
+}
+input{
+	margin-top: 10px;
+}
+
+footer{
+	height: 45px;
+	margin-top: 20px;
+}
+
+footer>p{
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+#submit{
+	margin-left: 1000px;
+}
